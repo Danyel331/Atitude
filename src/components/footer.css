@@ -1,0 +1,46 @@
+
+iframe {
+    margin-left: 8%;
+    margin-top: 3%;
+    float: left;
+    margin-bottom: 3%;
+    width: 120px;
+    height: 110px;
+}
+.Info {
+    padding-top: 3%;
+    padding-left: 45%;
+    font-size: 12px;
+    
+}
+ul {
+    list-style: none;
+}
+.borda2 {
+    border-top:2px solid #ffffff;
+}
+
+.copy {
+    align-items: flex-end;
+}
+
+.copy1 {
+    color: #716849;
+}
+@media (min-width:768px){
+    
+iframe {
+    margin-left: 20%;
+    margin-top: 3%;
+    float: left;
+    margin-bottom: 3%;
+    width: 300px;
+    height: 150px;
+}
+.Info {
+    padding-top: 3%;
+    padding-left: 45%;
+    font-size: 20px;
+    
+}
+}
